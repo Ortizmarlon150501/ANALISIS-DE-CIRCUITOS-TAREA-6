@@ -17,6 +17,14 @@ Establecer las normas para analizar circuitos con múltiples excitaciones o con 
 
 # Marco Teorico
 
+Capitulo 11
+
+![image](https://user-images.githubusercontent.com/84412132/127440166-75a49835-d516-4945-b364-281f5eed6f95.png)
+
+
+
+
+
 
 # Capitulo 12 
 
