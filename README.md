@@ -1,6 +1,5 @@
 # ANALISIS-DE-CIRCUITOS-TAREA-6
 
-![image](https://user-images.githubusercontent.com/84587118/127433376-9e38ed62-259e-4f8b-ba7a-fc0a2cde76a9.png)
 
 
 # Objetivo
