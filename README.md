@@ -141,6 +141,104 @@ d. Calcule v_C  e i_C  en t= 0^+  s,t= τ,2,3,4,y 5t.
 ![image](https://user-images.githubusercontent.com/84412132/127426903-beaafe2a-db17-4156-81d6-d5bacdafa878.png)
 
 
+27. Para la figura 11-54, sea E = 200 V, R2=1 kΩ y C = 0.5 uF. Después de que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2. 
+
+
+a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente? 
+
+b. ¿Cuál es la constante de tiempo de descarga? c. Determine las ecuaciones de descarga para vC e iC.
+
+![image](https://user-images.githubusercontent.com/84587118/127441393-1618b257-f5bc-4ad3-99ee-32e964fdbd66.png)
+
+![image](https://user-images.githubusercontent.com/84587118/127441516-9a76e628-37b8-4372-9fea-57d7375f1a12.png)
+
+
+31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.
+
+![image](https://user-images.githubusercontent.com/84587118/127441562-6ad64d6f-b0e6-4738-a407-4959c2e2c94d.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/127441658-dfe3c07d-aaba-42d6-b883-8a3337c86f0b.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/127441683-7cbf4914-15e9-4e42-8936-885b78c0d214.png)
+
+
+33. Para el circuito de la figura 11-54, el capacitor está inicialmente descargado. El interruptor es movido primero a la posición de carga y luego a la de des carga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C.
+
+![image](https://user-images.githubusercontent.com/84587118/127441807-4d2895ea-8d0c-4f24-bb01-9270a4e92de4.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/127441857-2504e2e3-7b17-417a-9fd0-288da53a3d75.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/127441868-446e4eb2-e791-4f71-abc6-adf9d79c8dae.png)
+
+
+35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable.
+
+![image](https://user-images.githubusercontent.com/84587118/127441914-ad75d1dd-faa3-4005-b08b-595b939f8357.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/127441943-66daad46-b656-4e65-ac3a-97efbda42d82.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/127441956-e99c70f3-b390-4689-9b2a-6c0f85e34dbd.png)
+
+
+37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V, R = 750 kΩ y la alarma es activada en 15 s cuando vC = 3.8 V, ¿qué valor tiene C?
+
+![image](https://user-images.githubusercontent.com/84587118/127441994-6ef041c9-3f16-4d18-90d1-95dfcc42d6a2.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/127442040-0a8c22e0-38d8-4e75-8883-672209312a39.png)
+
+
+39. Considere la forma de onda de la figura 11-62. a. ¿Cuál es el periodo? b. ¿Cuál es el ciclo de trabajo? c. ¿Cuál es el VRP?
+
+
+a. ¿Cuál es el periodo?
+
+![image](https://user-images.githubusercontent.com/84587118/127442129-a9383d16-66a2-4e50-afea-1d46f1fecf1c.png)
+
+
+ b. ¿Cuál es el ciclo de trabajo?
+ 
+ ![image](https://user-images.githubusercontent.com/84587118/127442200-0a77e5e7-ad43-4672-8884-793985b6f2fa.png)
+
+ c. ¿Cuál es el VRP?
+ 
+ ![image](https://user-images.githubusercontent.com/84587118/127442237-2868951e-0489-425e-817a-56d5c6399425.png)
+
+
+41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64.
+
+![image](https://user-images.githubusercontent.com/84587118/127442307-8dfb8400-979e-40cb-999d-351fedb2d1a1.png)
+
+
+43. Se aplica un escalón al circuito de la figura 11-66. Si R = 150Ω  y C = 20 pF, estime el tiempo que tarda en subir el voltaje de salida
+
+![image](https://user-images.githubusercontent.com/84587118/127442334-7f0de903-5b60-4d1f-b083-123c5873d836.png)
+
+
+1. Vea la figura 12-41: a. ¿Qué área, A1 o A2, utilizaría para calcular la densidad de flujo? b. Si 28 mWb, ¿cuál es la densidad de flujo en teslas?
+
+![image](https://user-images.githubusercontent.com/84587118/127442382-18306181-4981-4571-8787-a589d2fb1fb8.png)
+
+
+3. El toroide de la figura 12-42 tiene una sección transversal circular y θ= 628 uWb. Si r1 = 8 cm y r2 = 12 cm, ¿cuál es la densidad de flujo en teslas?
+
+![image](https://user-images.githubusercontent.com/84587118/127442444-54fe7156-ec29-4d70-a8db-e196ad656386.png)
+
+
+12 -5 Espacios de aire, desbordamiento y núcleos laminados 
+5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B = 1.45 T, ¿qué valor tiene en webers?
+
+
+![image](https://user-images.githubusercontent.com/84587118/127442472-ccf58cbc-d0a2-4655-af2c-d2d7f564bc14.png)
+
+
+
 
 
 
