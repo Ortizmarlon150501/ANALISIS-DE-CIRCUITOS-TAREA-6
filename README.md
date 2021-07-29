@@ -259,3 +259,4 @@ Conclusiones
 
 Bibliografia
 
+Robbins, Allan H. Willhelm c. Miller. n.d. Analisis de Circuitos Teoria y Practica. Edited by CENGAGE Learning. Cuarta Edi. https://drive.google.com/file/d/1xLy0QqUmSOByE8CDn-6dgCHs8NJL-juA/view.
