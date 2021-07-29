@@ -232,6 +232,7 @@ a. ¿Cuál es el periodo?
 
 
 12 -5 Espacios de aire, desbordamiento y núcleos laminados 
+
 5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B = 1.45 T, ¿qué valor tiene en webers?
 
 
