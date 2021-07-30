@@ -281,6 +281,7 @@ a. ¿Cuál es el periodo?
 
 19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, la = 0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.
 
+![image](https://user-images.githubusercontent.com/84585835/127685750-6df87b85-84fb-469f-aae5-463df5f7f04f.png)
 
 
 21. Para el circuito de la figura 12-51, Φ = 30 x μWb y N = 2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.
