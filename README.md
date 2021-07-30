@@ -314,12 +314,14 @@ a. ¿Cuál es el periodo?
 
 ![image](https://user-images.githubusercontent.com/84585835/127683862-5f0a5c77-f771-4dce-9886-af9b7cd884cc.png)
 
-VIDEO
+# VIDEO
 
-Conclusiones
+https://youtu.be/VvUxLBU9sfk
+
+# Conclusiones
 
 
 
-Bibliografia
+# Bibliografia
 
 Robbins, Allan H. Willhelm c. Miller. n.d. Analisis de Circuitos Teoria y Practica. Edited by CENGAGE Learning. Cuarta Edi. https://drive.google.com/file/d/1xLy0QqUmSOByE8CDn-6dgCHs8NJL-juA/view.
