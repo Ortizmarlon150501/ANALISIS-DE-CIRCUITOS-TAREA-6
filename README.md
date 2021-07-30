@@ -283,6 +283,7 @@ a. ¿Cuál es el periodo?
 
 ![image](https://user-images.githubusercontent.com/84585835/127685750-6df87b85-84fb-469f-aae5-463df5f7f04f.png)
 
+![image](https://user-images.githubusercontent.com/84585835/127689716-b31abbd8-cfc2-4dbc-9f5a-16c1cab595cf.png)
 
 21. Para el circuito de la figura 12-51, Φ = 30 x μWb y N = 2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.
 
