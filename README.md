@@ -260,6 +260,8 @@ a. ¿Cuál es el periodo?
 12-9 Ley de circuitos de Ampère
 
 13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
+14. 
+![image](https://user-images.githubusercontent.com/84585835/127685619-01142a06-6fd7-4057-a3f8-dde185012593.png)
 
 12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI 
 
