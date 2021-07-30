@@ -238,20 +238,73 @@ a. ¿Cuál es el periodo?
 
 ![image](https://user-images.githubusercontent.com/84587118/127442472-ccf58cbc-d0a2-4655-af2c-d2d7f564bc14.png)
 
+7. Para la sección del núcleo de hierro de la figura 12-45, si Φ1 = 12 mWb y Φ3 = 2 mWb, ¿cuánto vale B2?
+
+![image](https://user-images.githubusercontent.com/84585835/127683368-b3ab4399-77a2-4fe8-a1c8-f263dad2f767.png)
+
+![image](https://user-images.githubusercontent.com/84585835/127683390-821a0d4a-129d-423f-9301-0c1b496009bd.png)
+
+12-8 Intensidad de campo magnético y curvas de magnetización 
+
+9. Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene Φ si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA = 0.94?
+
+![image](https://user-images.githubusercontent.com/84585835/127683425-5f57bcff-80e9-4e2f-964c-7c79885c010f.png)
+
+11. Considere una vez más la figura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
+
+![image](https://user-images.githubusercontent.com/84585835/127683461-fbe73bb7-0254-4a3d-aa4d-f0071ca71fef.png)
+
+![image](https://user-images.githubusercontent.com/84585835/127683472-d9262c92-06ea-48d6-a0a3-5f6a63024cb9.png)
 
 
+12-9 Ley de circuitos de Ampère
+
+13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
+
+12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI 
+
+15. Encuentre la corriente I en la figura 12-48 si Φ 0.16 mWb
+
+![image](https://user-images.githubusercontent.com/84585835/127683562-4f55cde3-a538-4e0e-a9f9-fc099b0fe990.png)
+
+![image](https://user-images.githubusercontent.com/84585835/127683594-a88c101a-8432-47f6-8ac9-e27e679d1d53.png)
 
 
+17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para Φ = 0.128 mWb. No tome en cuenta el desbordamiento.
+
+![image](https://user-images.githubusercontent.com/84585835/127683647-d464f03d-4821-4f89-ad71-de6879ae222e.png)
+
+![image](https://user-images.githubusercontent.com/84585835/127683684-066050a7-c6cf-46fd-b7d8-33d8a2a59692.png)
+
+19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, la = 0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.
+
+21. Para el circuito de la figura 12-51, Φ = 30 x μWb y N = 2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.
 
 
+23. Una segunda bobina de 450 vueltas con I2 = 4 amperes se devanan en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente I1.
 
 
+12-11 Circuitos magnéticos en serie-paralelo 
+
+25. Si el circuito de la figura 12-53 no tiene espacio y 3 Φ3 = 0.2 mWb, encuentre I
+
+![image](https://user-images.githubusercontent.com/84585835/127684080-95aa3310-a275-4b18-bb75-65636f79e15b.png)
 
 
+27. Si NI = 644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo,Φ.
+
+![image](https://user-images.githubusercontent.com/84585835/127683793-0ea2213b-6147-4aa7-85be-f6d116212f06.png)
+
+![image](https://user-images.githubusercontent.com/84585835/127683812-b0a7cd32-04fd-4788-b3e5-dbce116a877b.png)
+
+12-13 Fuerza debida a un electroimán 
+
+29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.5 cm y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se necesita (en webers)
 
 
+![image](https://user-images.githubusercontent.com/84585835/127683845-adcc5c3d-eb73-43f5-b5f8-21a2f8769357.png)
 
-
+![image](https://user-images.githubusercontent.com/84585835/127683862-5f0a5c77-f771-4dce-9886-af9b7cd884cc.png)
 
 VIDEO
 
