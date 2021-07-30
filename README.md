@@ -276,7 +276,10 @@ a. ¿Cuál es el periodo?
 
 ![image](https://user-images.githubusercontent.com/84585835/127683684-066050a7-c6cf-46fd-b7d8-33d8a2a59692.png)
 
+
 19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, la = 0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.
+
+
 
 21. Para el circuito de la figura 12-51, Φ = 30 x μWb y N = 2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.
 
@@ -285,6 +288,7 @@ a. ¿Cuál es el periodo?
 
 
 12-11 Circuitos magnéticos en serie-paralelo 
+
 
 25. Si el circuito de la figura 12-53 no tiene espacio y 3 Φ3 = 0.2 mWb, encuentre I
 
