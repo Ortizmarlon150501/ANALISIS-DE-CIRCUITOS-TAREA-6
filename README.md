@@ -293,6 +293,9 @@ a. ¿Cuál es el periodo?
 
 23. Una segunda bobina de 450 vueltas con I2 = 4 amperes se devanan en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente I1.
 
+![image](https://user-images.githubusercontent.com/84585835/127697015-af75635f-313e-43f1-88c9-1861b9f45d77.png)
+
+![image](https://user-images.githubusercontent.com/84585835/127697065-88f70784-9953-413f-abf8-d11e726cda19.png)
 
 12-11 Circuitos magnéticos en serie-paralelo 
 
