@@ -288,6 +288,9 @@ a. ¿Cuál es el periodo?
 21. Para el circuito de la figura 12-51, Φ = 30 x μWb y N = 2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.
 
 
+![image](https://user-images.githubusercontent.com/84585835/127692460-d683f86e-ec0c-44ad-977f-bce2adfe72f4.png)
+
+
 23. Una segunda bobina de 450 vueltas con I2 = 4 amperes se devanan en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente I1.
 
 
