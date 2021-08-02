@@ -325,7 +325,9 @@ https://youtu.be/VvUxLBU9sfk
 
 # Conclusiones
 
+•	Al realizar los ejercicios relacionados con los capacitores se debe aplicar los conceptos para realizarlos, los cuales se relaciona con lo fundamentos de elementos en serie y paralelo.
 
+•	Aplicando los fundamentos de formulación de magnetismo y circuitos magnéticos para su resolución de los mismo se debe tenerlos bien claros y relacionar las formula de manera correcta.
 
 # Bibliografia
 
