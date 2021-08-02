@@ -5,7 +5,7 @@
 # Objetivo
 Objetivo general:
 
-Establecer las normas para analizar circuitos con múltiples excitaciones o con una excitación cualquiera, obtener modelos simplificados de circuitos complejos con el fin de abordar la interconexión de redes circuitales e introducir conceptos asociados a la transmisión de corriente, potencia y voltaje en una cadena de dispositivos.
+Establecer las normas para analizar circuitos con múltiples excitaciones o con una excitación cualquiera, obtener modelos simplificados de circuitos complejos con el fin de abordar la interconexión de redes circuitales e introducir conceptos asociados a la transmisión de corrientey voltaje tambien sobre los capacitores y conceotos de magnetismo.
 
 # Objetivos específicos
 
