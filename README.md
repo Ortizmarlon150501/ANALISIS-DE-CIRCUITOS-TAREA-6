@@ -9,11 +9,10 @@ Establecer las normas para analizar circuitos con múltiples excitaciones o con 
 
 # Objetivos específicos
 
-• Determinar la potencia máxima de la fuente.
+• Analizar los fundamentos sobre la carga, descarga del capacitor y circuitos formadores de onda simples que se los puede aplicar en ejercicios .
 
-• Verificar el comportamiento de la corriente en los nodos de un circuito
+• Comprender los conceptos sobre el Magnetismo y circuitos magnéticos para poderlos aplicar en la resolución de los ejercicios propuestos.
 
-• Corroborar experimentalmente las sumas de potencial dentro de una
 
 # Marco Teorico
 
