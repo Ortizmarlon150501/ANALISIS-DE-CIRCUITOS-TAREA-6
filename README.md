@@ -9,7 +9,7 @@ Establecer las normas para analizar circuitos con múltiples excitaciones o con 
 
 # Objetivos específicos
 
-• Analizar los fundamentos sobre la carga, descarga del capacitor y circuitos formadores de onda simples que se los puede aplicar en ejercicios .
+• Analizar los fundamentos sobre la carga, descarga del capacitor y circuitos formadores de onda simples que se los puede aplicar en ejercicios.
 
 • Comprender los conceptos sobre el Magnetismo y circuitos magnéticos para poderlos aplicar en la resolución de los ejercicios propuestos.
 
